@@ -32,7 +32,7 @@
 ##### • We need to prevent people/servers that abuse the bot, break bot rules.
 
 ### 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
-#### Feel free to join the [support server](https://discord.gg/sbarzRb) and/or contact EppyPrime#1461 (611108193275478018).
+#### Feel free to join the [support server](https://discord.gg/sbarzRb) and/or contact Primus#1337.
 
 ### Please note, that we can change this policy without any warning at any given time.
-#### **Last changed:** `17:16 28/7/2020`
+#### **Last changed:** `12:11 10/04/2022`
