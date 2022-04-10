@@ -33,7 +33,7 @@ NOTWITHSTANDING ANYTHING ELSE HEREIN OR OTHERWISE, AND EXCEPT FOR BODILY INJURY,
 
 Identification.
 
-BMO Discord bots may use Licensee’s nick name and logo in connection with the promotion of the Bot and the bmo bot’s website at www.bmobot.xyz. Licensee agrees to participate in press announcements, case studies, or other forms reasonably requested by bmo discord bot.
+BMO Discord bots may use Licensee’s nick name and logo in connection with the promotion of the Bot and the bmo bot’s website at bmo.teritum.dev. Licensee agrees to participate in press announcements, case studies, or other forms reasonably requested by bmo discord bot.
 
 Miscellaneous.
 
